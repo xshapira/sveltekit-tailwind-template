@@ -16,6 +16,6 @@ This is a `sveltekit` playground to start a new project. It comes with `tailwind
 
 ---
 
-## **Check out [Svelte](https://kit.svelte.dev/)** for more info.
+## **Check out [SvelteKit](https://kit.svelte.dev/)** for more info.
 
 ### Feel free to use this as a [template](https://github.com/kr40/sveltekit-tailwind-template/generate).
